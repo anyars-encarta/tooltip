@@ -25,9 +25,31 @@ a:hover {
 body {
   margin: 0;
   display: flex;
+  justify-content: center;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+}
+
+.App {
+  display: flex;
+}
+
+.tooltip-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip {
+  position: absolute;
+  top: calc(-100% - 50px);
+  transform: translate(-50%);
+  background-color: rgba(0,0,0, 0.8);
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  z-index: 1;
+  min-width: 200px;
 }
 
 h1 {
@@ -45,7 +67,10 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
+  border-color: #0000;
+  margin-right: 15px;
 }
+
 button:hover {
   border-color: #646cff;
 }
