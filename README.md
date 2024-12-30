@@ -1,6 +1,6 @@
 # React + Vite
 
-Tooltip
+Tooltip is a basic app
 
 Currently, two official plugins are available:
 
