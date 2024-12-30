@@ -1,6 +1,6 @@
 # React + Vite
 
-Tooltip is a basic app developed to showcase the use tooltips. Created with
+Tooltip is a basic app developed to showcase the use tooltips. Created with React and Vite.
 
 Currently, two official plugins are available:
 
