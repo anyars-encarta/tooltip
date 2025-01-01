@@ -1,6 +1,6 @@
 # React + Vite
 
-Tooltip is a basic app developed to showcase the use tooltips. Created with React and Vite. When a user hovers on an element, a tooltip appears indicating the name of the icon.
+Tooltip is a basic app developed to showcase the use tooltips. Created with React and Vite. When a user hovers on an element, a tooltip appears indicating the name of the
 
 Currently, two official plugins are available:
 
