@@ -2,7 +2,7 @@
 
 Tooltip is a basic app developed to showcase the use tooltips. Created with React and Vite. When a user hovers on an element, a tooltip appears.
 
-Tooltip is a basic app developed to showcase the use tooltips. Created with
+Tooltip is a basic app developed to showcase the use tooltips. Created
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
