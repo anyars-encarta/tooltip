@@ -2,7 +2,7 @@
 
 Tooltip is a basic app developed to showcase the use tooltips. Created with React and Vite. When a user hovers on an element, a tooltip appears.
 
-When a user hovers on an
+When a user hovers on
 
 Currently, two official plugins are available:
 
